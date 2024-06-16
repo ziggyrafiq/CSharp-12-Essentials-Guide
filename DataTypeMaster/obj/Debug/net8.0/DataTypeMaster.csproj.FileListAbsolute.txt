@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\bin\Debug\net8.0\DataTypeMaster.exe
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\bin\Debug\net8.0\DataTypeMaster.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\bin\Debug\net8.0\DataTypeMaster.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\bin\Debug\net8.0\DataTypeMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\bin\Debug\net8.0\DataTypeMaster.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\refint\DataTypeMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\DataTypeMaster.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\DataTypeMaster\obj\Debug\net8.0\ref\DataTypeMaster.dll

@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\bin\Debug\net8.0\FlowMaster.exe
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\bin\Debug\net8.0\FlowMaster.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\bin\Debug\net8.0\FlowMaster.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\bin\Debug\net8.0\FlowMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\bin\Debug\net8.0\FlowMaster.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\refint\FlowMaster.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\FlowMaster.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FlowMaster\obj\Debug\net8.0\ref\FlowMaster.dll

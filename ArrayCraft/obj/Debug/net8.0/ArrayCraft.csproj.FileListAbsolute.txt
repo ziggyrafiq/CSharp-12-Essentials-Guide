@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\bin\Debug\net8.0\ArrayCraft.exe
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\bin\Debug\net8.0\ArrayCraft.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\bin\Debug\net8.0\ArrayCraft.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\bin\Debug\net8.0\ArrayCraft.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\bin\Debug\net8.0\ArrayCraft.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\refint\ArrayCraft.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ArrayCraft.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ArrayCraft\obj\Debug\net8.0\ref\ArrayCraft.dll

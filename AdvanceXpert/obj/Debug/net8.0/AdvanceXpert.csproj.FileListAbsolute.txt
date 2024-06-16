@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\bin\Debug\net8.0\AdvanceXpert.exe
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\bin\Debug\net8.0\AdvanceXpert.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\bin\Debug\net8.0\AdvanceXpert.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\bin\Debug\net8.0\AdvanceXpert.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\bin\Debug\net8.0\AdvanceXpert.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\refint\AdvanceXpert.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\AdvanceXpert.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AdvanceXpert\obj\Debug\net8.0\ref\AdvanceXpert.dll

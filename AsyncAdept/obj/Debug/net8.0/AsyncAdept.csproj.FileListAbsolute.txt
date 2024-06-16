@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\bin\Debug\net8.0\AsyncAdept.exe
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\bin\Debug\net8.0\AsyncAdept.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\bin\Debug\net8.0\AsyncAdept.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\bin\Debug\net8.0\AsyncAdept.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\bin\Debug\net8.0\AsyncAdept.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\refint\AsyncAdept.dll
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\AsyncAdept.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\AsyncAdept\obj\Debug\net8.0\ref\AsyncAdept.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\CSharp-10-Essentials-Guide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DDE82B-C8A6-4408-B2EB-62732FA18522}|CSharp12Innovate\\CSharp12Innovate.csproj|e:\\github\\csharp-10-essentials-guide\\csharp12innovate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DDE82B-C8A6-4408-B2EB-62732FA18522}|CSharp12Innovate\\CSharp12Innovate.csproj|solutionrelative:csharp12innovate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DDE82B-C8A6-4408-B2EB-62732FA18522}|CSharp12Innovate\\CSharp12Innovate.csproj|e:\\github\\csharp-10-essentials-guide\\csharp12innovate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DDE82B-C8A6-4408-B2EB-62732FA18522}|CSharp12Innovate\\CSharp12Innovate.csproj|solutionrelative:csharp12innovate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-10-Essentials-Guide\\CSharp12Innovate\\Person.cs",
+              "RelativeDocumentMoniker": "CSharp12Innovate\\Person.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-10-Essentials-Guide\\CSharp12Innovate\\Person.cs",
+              "RelativeToolTip": "CSharp12Innovate\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:18:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\CSharp-10-Essentials-Guide\\CSharp12Innovate\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp12Innovate\\Program.cs",
+              "ToolTip": "E:\\GitHub\\CSharp-10-Essentials-Guide\\CSharp12Innovate\\Program.cs",
+              "RelativeToolTip": "CSharp12Innovate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:09:03.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

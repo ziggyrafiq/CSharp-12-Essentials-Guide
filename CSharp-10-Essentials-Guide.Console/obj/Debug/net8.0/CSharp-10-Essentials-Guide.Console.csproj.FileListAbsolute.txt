@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\bin\Debug\net8.0\CSharp-10-Essentials-Guide.Console.exe
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\bin\Debug\net8.0\CSharp-10-Essentials-Guide.Console.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\bin\Debug\net8.0\CSharp-10-Essentials-Guide.Console.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\bin\Debug\net8.0\CSharp-10-Essentials-Guide.Console.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\bin\Debug\net8.0\CSharp-10-Essentials-Guide.Console.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\refint\CSharp-10-Essentials-Guide.Console.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\CSharp-10-Essentials-Guide.Console.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp-10-Essentials-Guide.Console\obj\Debug\net8.0\ref\CSharp-10-Essentials-Guide.Console.dll

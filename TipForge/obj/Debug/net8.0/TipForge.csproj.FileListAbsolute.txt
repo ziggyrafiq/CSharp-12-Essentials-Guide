@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\bin\Debug\net8.0\TipForge.exe
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\bin\Debug\net8.0\TipForge.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\bin\Debug\net8.0\TipForge.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\bin\Debug\net8.0\TipForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\bin\Debug\net8.0\TipForge.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\refint\TipForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\TipForge.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\TipForge\obj\Debug\net8.0\ref\TipForge.dll

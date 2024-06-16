@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\bin\Debug\net8.0\OOPExplorer.exe
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\bin\Debug\net8.0\OOPExplorer.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\bin\Debug\net8.0\OOPExplorer.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\bin\Debug\net8.0\OOPExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\bin\Debug\net8.0\OOPExplorer.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\refint\OOPExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\OOPExplorer.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OOPExplorer\obj\Debug\net8.0\ref\OOPExplorer.dll

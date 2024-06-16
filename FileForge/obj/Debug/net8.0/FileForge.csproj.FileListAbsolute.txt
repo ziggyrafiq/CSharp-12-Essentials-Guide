@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\bin\Debug\net8.0\FileForge.exe
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\bin\Debug\net8.0\FileForge.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\bin\Debug\net8.0\FileForge.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\bin\Debug\net8.0\FileForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\bin\Debug\net8.0\FileForge.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\refint\FileForge.dll
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\FileForge.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\FileForge\obj\Debug\net8.0\ref\FileForge.dll

@@ -1,0 +1,15 @@
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\bin\Debug\net8.0\ExceptionExplorer.exe
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\bin\Debug\net8.0\ExceptionExplorer.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\bin\Debug\net8.0\ExceptionExplorer.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\bin\Debug\net8.0\ExceptionExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\bin\Debug\net8.0\ExceptionExplorer.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\refint\ExceptionExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ref\ExceptionExplorer.dll
+E:\GitHub\CSharp-10-Essentials-Guide\ExceptionExplorer\obj\Debug\net8.0\ExceptionExplorer.csproj.AssemblyReference.cache

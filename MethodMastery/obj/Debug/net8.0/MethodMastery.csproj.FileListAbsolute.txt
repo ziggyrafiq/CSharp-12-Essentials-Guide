@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\bin\Debug\net8.0\MethodMastery.exe
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\bin\Debug\net8.0\MethodMastery.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\bin\Debug\net8.0\MethodMastery.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\bin\Debug\net8.0\MethodMastery.dll
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\bin\Debug\net8.0\MethodMastery.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.dll
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\refint\MethodMastery.dll
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\MethodMastery.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\MethodMastery\obj\Debug\net8.0\ref\MethodMastery.dll

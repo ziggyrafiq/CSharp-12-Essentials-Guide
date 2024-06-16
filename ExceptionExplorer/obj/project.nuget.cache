@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4nuizKkVZ4g8cm7ATr60uU/KqHOZLxQPXvADGGSLtiVeheqZH4kiphgm0T+iXcBAXyilVAZHv3AFOxO43hCkQ==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\CSharp-10-Essentials-Guide\\ExceptionExplorer\\ExceptionExplorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

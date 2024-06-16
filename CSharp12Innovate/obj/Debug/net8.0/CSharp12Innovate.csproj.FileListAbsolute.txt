@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\bin\Debug\net8.0\CSharp12Innovate.exe
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\bin\Debug\net8.0\CSharp12Innovate.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\bin\Debug\net8.0\CSharp12Innovate.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\bin\Debug\net8.0\CSharp12Innovate.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\bin\Debug\net8.0\CSharp12Innovate.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\refint\CSharp12Innovate.dll
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\CSharp12Innovate.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\CSharp12Innovate\obj\Debug\net8.0\ref\CSharp12Innovate.dll

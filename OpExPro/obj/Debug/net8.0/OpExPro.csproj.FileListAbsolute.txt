@@ -1,0 +1,14 @@
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\bin\Debug\net8.0\OpExPro.exe
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\bin\Debug\net8.0\OpExPro.deps.json
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\bin\Debug\net8.0\OpExPro.runtimeconfig.json
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\bin\Debug\net8.0\OpExPro.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\bin\Debug\net8.0\OpExPro.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.AssemblyInfoInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.AssemblyInfo.cs
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\refint\OpExPro.dll
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.pdb
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\OpExPro.genruntimeconfig.cache
+E:\GitHub\CSharp-10-Essentials-Guide\OpExPro\obj\Debug\net8.0\ref\OpExPro.dll
